@@ -1,0 +1,22 @@
+INSERT INTO books_table (id, name, price, quantity, author, category)
+VALUES 
+('5a5e1482-4096-4d04-a2c5-03d62db5ec34', 'The Maze Runner', 19.99, 1, 'James Dashner', 'Young Adult'),
+('8d1d430c-707c-47f6-b693-0431dd0f2017', 'Divergent', 16.99, 1, 'Veronica Roth', 'Young Adult'),
+('b6d4f119-c05e-4f3f-9e23-223af3b72aa3', 'Eleanor & Park', 17.99, 1, 'Rainbow Rowell', 'Young Adult'),
+('455755ca-30de-4d08-97dc-16d512ad6471', 'The Lion, the Witch and the Wardrobe', 19.99, 1, 'C.S. Lewis', 'Children'),
+('670a81fd-04de-4fca-a984-17137c35f9aa', 'The Fault in Our Stars', 16.99, 1, 'John Green', 'Young Adult'),
+('1c7938f8-8583-49fd-87b9-397cce0b99cc', 'The Hunger Games', 14.99, 1, 'Suzanne Collins', 'Young Adult'),
+('50ac4336-1878-4fd3-9d8e-3e80b345f28e', 'Pippi Longstocking', 19.99, 1, 'Astrid Lindgren', 'Children'),
+('b8e52182-77c2-467f-a3b5-42fec9433058', 'Charlotte''s Web', 14.99, 1, 'E.B. White', 'Children'),
+('8f18aeb3-eb33-44ce-a1c6-6bb6a1d1be13', 'Matilda', 12.99, 1, 'Roald Dahl', 'Children'),
+('a4dfd831-16d4-4819-b87a-70cf4aead73c', 'Harry Potter and the Chamber of Secrets', 29.99, 1, 'J.K. Rowling', 'Children'),
+('daa1b301-56f5-42e5-9ce6-76cd883ed702', 'Alice''s Adventures in Wonderland', 11.99, 1, 'Lewis Carroll', 'Children'),
+('b8a8a35f-5693-4dce-a7ef-570dc7d85b9e', 'Twilight', 19.99, 1, 'Stephenie Meyer', 'Young Adult'),
+('c3ce2547-2425-42a3-960c-87e705492e7e', 'The Giver', 17.99, 1, 'Lois Lowry', 'Young Adult'),
+('5c0e5e2e-7ec3-4822-ba7a-8eb070d028a9', 'Harry Potter and the Sorcerer''s Stone', 29.99, 1, 'J.K. Rowling', 'Children'),
+('8b809d53-bbcb-4344-947b-1a0f20be12e6', 'The Very Hungry Caterpillar', 19.99, 1, 'Eric Carle', 'Children'),
+('1c705004-73ad-444a-b454-cc50dcada875', 'Where the Red Fern Grows', 12.99, 1, 'Wilson Rawls', 'Children'),
+('b5c4db4f-811e-4d11-a139-df41ceaad280', 'Harry Potter and the Prisoner of Azkaban', 29.99, 1, 'J.K. Rowling', 'Children'),
+('5d0e9f89-b4db-499d-b8bd-0edd41352158', 'Speak', 14.99, 1, 'Laurie Halse Anderson', 'Young Adult'),
+('30a4c1ac-91ff-4f8e-86bf-f3cc4f1eab22', 'Looking for Alaska', 15.99, 1, 'John Green', 'Young Adult'),
+('c1dbc381-18bd-4744-89fb-f64369e9a0dc', 'Paper Towns', 14.99, 1, 'John Green', 'Young Adult');
